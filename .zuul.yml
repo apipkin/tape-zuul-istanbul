@@ -1,0 +1,8 @@
+ui: tape
+coverage: false
+browsers:
+  - name: chrome
+    version: 47
+browserify:
+  - transform:
+      name: babelify
